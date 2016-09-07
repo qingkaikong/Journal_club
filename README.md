@@ -1,0 +1,1 @@
+This folder will contain the papers I selected from [Seismological Research Letters](http://srl.geoscienceworld.org/) for [Roland Burgmann's](http://seismo.berkeley.edu/~burgmann/) Group Meeting [Journal Club](http://seismo.berkeley.edu/~burgmann/EPS290/). 
